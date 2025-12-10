@@ -1630,18 +1630,6 @@ export default function App() {
           </div>
         </div>
       </main>
-
-      {/* Footer */}
-      <footer className="mt-auto py-6 border-t border-white/20 bg-white/30 backdrop-blur-sm">
-        <div className="max-w-7xl mx-auto px-4 flex flex-col items-center justify-center gap-1">
-           <p className="text-sm text-gray-600 font-medium flex items-center gap-1.5">
-             <span className="opacity-70">Loyihani yaratdi:</span>
-             <span className="font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md border border-blue-100">
-                Xudayberdiyev Mansur
-             </span>
-           </p>
-        </div>
-      </footer>
     </div>
   );
 }
